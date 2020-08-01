@@ -1,0 +1,5 @@
+com/stackfortech/fileUpload/model/DBFileEntity.class
+com/stackfortech/fileUpload/FileUploadApplication.class
+com/stackfortech/fileUpload/repository/DbFileRepository.class
+com/stackfortech/fileUpload/controller/FileUploadController.class
+com/stackfortech/fileUpload/service/FileUploadService.class
